@@ -1,0 +1,10 @@
+# log files
+*.log
+
+# swp, swap files
+*.swp
+*.swap
+
+# additional files
+*.git
+.git
